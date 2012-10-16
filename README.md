@@ -6,6 +6,7 @@ Discretizer
 使い方  
 コンパイル  
 javac Discretizer.java  
+実行  
 java Discretizer [データファイル名] [分割数] [アルゴリズム名]  
   
 データファイル形式  
