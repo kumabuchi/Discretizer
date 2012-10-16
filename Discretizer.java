@@ -279,7 +279,6 @@ public class Discretizer {
 		System.out.println("#value\t#bin\t#label");
 		for( int i=0; i<dataSet.size(); i++)
 			System.out.println(dataSet.get(i).getVal()+"\t"+dataSet.get(i).getBin()+"\t"+dataSet.get(i).getLabel());
-		System.out.println("-----System exit-----");
 	}
 	
 	/*

@@ -9,7 +9,7 @@ javac Discretizer.java
 java Discretizer [データファイル名] [分割数] [アルゴリズム名]  
   
 データファイル形式  
-value,labelのcsv形式。labelはYes/No (サンプルデータファイル参照)  
+value,label形式。labelはYes/No (サンプルデータファイル参照)  
   
 分割数  
 最大分割数を指定します。  
@@ -21,5 +21,6 @@ value,labelのcsv形式。labelはYes/No (サンプルデータファイル参�
 3. Entropy-Based : 分割した際のエントロピーが小さいところから順に分割します。  
 4. Entropy-Minimization : 最終的なエントロピーが最小になるように分割します。  
   
-結果は標準出力と[アルゴリズム名].csvに出力されます。  
+結果は標準出力に出力されます。  
+(出力されるcsvファイルはdebug用です。)  
 
