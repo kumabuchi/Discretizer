@@ -4,11 +4,11 @@ Discretizer
 1次元のラベル付き数値データを4つのアルゴリズムで離散化するプログラム  
   
 使い方  
-コンパイル
+コンパイル  
 javac Discretizer.java  
 java Discretizer [データファイル名] [分割数] [アルゴリズム名]  
   
-データファイル形式
+データファイル形式  
 value,labelのcsv形式。labelはYes/No (サンプルデータファイル参照)  
   
 分割数  
