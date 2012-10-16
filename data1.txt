@@ -1,0 +1,14 @@
+64,Yes
+65,No
+68,Yes
+69,Yes
+70,Yes
+71,No
+72,No
+72,Yes
+75,Yes
+75,Yes
+80,No
+81,Yes
+83,Yes
+85,No
