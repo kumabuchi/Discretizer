@@ -9,7 +9,7 @@ javac Discretizer.java
 java Discretizer [データファイル名] [分割数] [アルゴリズム名]  
   
 データファイル形式  
-value,label形式。labelはYes/No (サンプルデータファイル参照)  
+value,label形式。labelはYes/No (サンプルデータファイル参照 data1.txt data2.txt)  
   
 分割数  
 最大分割数を指定します。  
